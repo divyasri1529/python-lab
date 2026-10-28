@@ -1,7 +1,4 @@
 # Electricity Billing System
-import nt
-
-
 def calculate_bill(units):
     bill = 0
     if units <= 100:
